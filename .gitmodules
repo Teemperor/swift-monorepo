@@ -1,0 +1,66 @@
+[submodule "cmark"]
+	path = cmark
+	url = https://github.com/apple/swift-cmark.git
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/KitWare/CMake.git
+[submodule "icu"]
+	path = icu
+	url = https://github.com/unicode-org/icu
+[submodule "indexstore-db"]
+	path = indexstore-db
+	url = https://github.com/apple/indexstore-db.git
+[submodule "llbuild"]
+	path = llbuild
+	url = https://github.com/apple/swift-llbuild.git
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/apple/llvm-project.git
+[submodule "ninja"]
+	path = ninja
+	url = https://github.com/ninja-build/ninja.git
+[submodule "sourcekit-lsp"]
+	path = sourcekit-lsp
+	url = https://github.com/apple/sourcekit-lsp.gi
+[submodule "swift"]
+	path = swift
+	url = https://github.com/apple/swift.git
+[submodule "swift-argument-parser"]
+	path = swift-argument-parser
+	url = https://github.com/apple/swift-argument-parser.git
+[submodule "swift-corelibs-foundation"]
+	path = swift-corelibs-foundation
+	url = https://github.com/apple/swift-corelibs-foundation.git
+[submodule "swift-corelibs-libdispatch"]
+	path = swift-corelibs-libdispatch
+	url = https://github.com/apple/swift-corelibs-libdispatch
+[submodule "swift-corelibs-xctest"]
+	path = swift-corelibs-xctest
+	url = https://github.com/apple/swift-corelibs-xctest
+[submodule "swift-driver"]
+	path = swift-driver
+	url = https://github.com/apple/swift-driver
+[submodule "swift-format"]
+	path = swift-format
+	url = https://github.com/apple/swift-format
+[submodule "swift-integration-tests"]
+	path = swift-integration-tests
+	url = https://github.com/apple/https://github.com/apple/swift-integration-tests.git
+[submodule "swiftpm"]
+	path = swiftpm
+	url = https://github.com/apple/swift-package-manager.git
+[submodule "swift-stress-tester"]
+	path = swift-stress-tester
+	url = https://github.com/apple/swift-stress-tester.git
+[submodule "swift-syntax"]
+	path = swift-syntax
+	url = https://github.com/apple/swift-syntax.git
+[submodule "swift-tools-support-core"]
+	path = swift-tools-support-core
+	url = https://github.com/apple/swift-tools-support-core.git
+[submodule "swift-xcode-playground-support"]
+	path = swift-xcode-playground-support
+	url = https://github.com/apple/swift-xcode-playground-support.git
+[submodule "yams"]
+	path = yams
+	url = https://github.com/jpsim/Yams.git
