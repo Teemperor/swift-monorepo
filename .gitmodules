@@ -21,7 +21,7 @@
 	url = https://github.com/ninja-build/ninja.git
 [submodule "sourcekit-lsp"]
 	path = sourcekit-lsp
-	url = https://github.com/apple/sourcekit-lsp.gi
+	url = https://github.com/apple/sourcekit-lsp.git
 [submodule "swift"]
 	path = swift
 	url = https://github.com/apple/swift.git
