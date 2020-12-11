@@ -45,7 +45,7 @@
 	url = https://github.com/apple/swift-format
 [submodule "swift-integration-tests"]
 	path = swift-integration-tests
-	url = https://github.com/apple/https://github.com/apple/swift-integration-tests.git
+	url = https://github.com/apple/swift-integration-tests.git
 [submodule "swiftpm"]
 	path = swiftpm
 	url = https://github.com/apple/swift-package-manager.git
